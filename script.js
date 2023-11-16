@@ -1,3 +1,5 @@
+/* OPTYMALIZE FOR MOBILE */
+
 const settings = document.querySelector('.settings');
 const title = document.querySelector('.event');
 const image = document.querySelector('.image-section');
